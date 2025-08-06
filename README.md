@@ -8,7 +8,7 @@ WeServe adalah website landing page modern untuk penyedia layanan web hosting ya
 
 ## 🌐 Live Preview
 
-🚀 **[View Live Demo](https://wissasono11.github.io/weserve-hosting-provider/)** (GitHub Pages)
+🚀 **[View Live Demo](https://weserve-landing-page.netlify.app/)** (WeServe - Landing Page)
 
 > *Website ini dapat diakses langsung melalui web browser tanpa perlu instalasi tambahan.*
 
